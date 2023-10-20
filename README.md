@@ -9,6 +9,7 @@
 - Уведомление в Telegram о результатах прохождения тестов
 - Видеопример прохождения тестов
 ### Стек технологий
+
 <p align="center">
 <a href="https://www.java.com/"><img src="images/logo/java.svg" width="50" height="50"  alt="Java"/></a>
 <a href="https://github.com/"><img src="images/logo/github.svg" width="50" height="50"  alt="Github"/></a>
@@ -23,6 +24,7 @@
 <a href="https://www.atlassian.com/software/jira"><img src="images/logo/jira.svg" width="50" height="50"  alt="Jira"/></a>
 <a href="https://telegram.org/"><img src="images/logo/telegram.svg" width="50" height="50"  alt="Telegram"/></a>
 </p>
+
 
 ### Реализованные проверки
 - Корректность открытия главной страницы
@@ -52,16 +54,16 @@ test
 - BROWSER_SIZE - размер открываемого окна браузера, в котором будут выполняться тесты
 
 ### Сборка в Jenkins
-![Screenshot_192](https://github.com/nice58/project/assets/103956147/f311c4fd-12fa-4990-82de-ef7cad4ac337)
+<kbd>![Screenshot_192](https://github.com/nice58/project/assets/103956147/f311c4fd-12fa-4990-82de-ef7cad4ac337)</kbd>
 
 ### Пример Allure-отчета
-![Screenshot_193](https://github.com/nice58/project/assets/103956147/4a2cc9d0-e9c5-4030-8ee5-6f36102ee604)
+<kbd>![Screenshot_193](https://github.com/nice58/project/assets/103956147/4a2cc9d0-e9c5-4030-8ee5-6f36102ee604)</kbd>
 
 ### Уведомление в Telegram о результатах прохождения тестов
-![image](https://github.com/nice58/project/assets/103956147/70928dce-b714-474c-951e-3a9884c7ffea)
+<kbd>![image](https://github.com/nice58/project/assets/103956147/70928dce-b714-474c-951e-3a9884c7ffea)</kbd>
 
 ### Видеопример прохождения тестов
-https://github.com/nice58/project/assets/103956147/725b0336-5c4e-4e1e-b3b9-1c05c631c49f
+<kbd>https://github.com/nice58/project/assets/103956147/725b0336-5c4e-4e1e-b3b9-1c05c631c49f</kbd>
 
 
 
