@@ -9,8 +9,18 @@
 - Уведомление в Telegram о результатах прохождения тестов
 - Видеопример прохождения тестов
 ### Стек технологий
-
-
+<p align="center">
+<img width="5%" title="IntelliJ IDEA" src="img/Intelij_IDEA.svg">
+<img width="5%" title="Java" src="img/Java.svg">
+<img width="5%" title="Selenide" src="img/Selenide.svg">
+<img width="5%" title="Selenoid" src="img/Selenoid.svg">
+<img width="5%" title="Allure Report" src="img/Allure_Report.svg">
+<img width="5%" title="Gradle" src="img/Gradle.svg">
+<img width="5%" title="JUnit5" src="img/JUnit5.svg">
+<img width="5%" title="GitHub" src="img/GitHub.svg">
+<img width="5%" title="Jenkins" src="img/Jenkins.svg">
+<img width="5%" title="Telegram" src="img/Telegram.svg">
+</p>
 
 ### Реализованные проверки
 - Корректность открытия главной страницы
