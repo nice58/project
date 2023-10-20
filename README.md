@@ -11,6 +11,7 @@
 - Видеопример прохождения тестов
   
 ### Стек технологий
+<p>
 <img width="5%" title="IntelliJ IDEA" src="img/idea.svg">
 <img width="5%" title="Java" src="img/java.svg">
 <img width="5%" title="Selenide" src="img/selenide.svg">
@@ -21,6 +22,7 @@
 <img width="5%" title="GitHub" src="img/github.svg">
 <img width="5%" title="Jenkins" src="img/jenkins.svg">
 <img width="5%" title="Telegram" src="img/telegram.svg">
+</p>
 
 ### Реализованные проверки
 - Корректность открытия главной страницы
