@@ -1,5 +1,6 @@
 # Автоматизация сайта Wildberries
 ![wb](https://github.com/nice58/project/assets/103956147/dde0288b-cfcb-4c76-bb9d-ef1d6d61558b)
+
 ## Содержание:
 - Стек технологий
 - Реализованные проверки
@@ -8,8 +9,8 @@
 - Пример Allure-отчета
 - Уведомление в Telegram о результатах прохождения тестов
 - Видеопример прохождения тестов
+  
 ### Стек технологий
-<p align="center">
 <img width="5%" title="IntelliJ IDEA" src="img/idea.svg">
 <img width="5%" title="Java" src="img/java.svg">
 <img width="5%" title="Selenide" src="img/selenide.svg">
@@ -20,7 +21,6 @@
 <img width="5%" title="GitHub" src="img/github.svg">
 <img width="5%" title="Jenkins" src="img/jenkins.svg">
 <img width="5%" title="Telegram" src="img/telegram.svg">
-</p>
 
 ### Реализованные проверки
 - Корректность открытия главной страницы
