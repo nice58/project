@@ -46,6 +46,10 @@ public class BasketTest extends TestBase {
             mainPage.activeSearchInput();
             mainPage.choiceProduct(variables.productItem);
             catalogPage.addToBasket();
+
+        });
+
+        step("Перейти в корзину", () -> {
             catalogPage.moveToBasket();
 
         });
