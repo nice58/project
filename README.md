@@ -51,7 +51,9 @@ BROWSER_SIZE - размер открываемого окна браузера, 
 ### Уведомление в Telegram о результатах прохождения тестов
 ![image](https://github.com/nice58/project/assets/103956147/70928dce-b714-474c-951e-3a9884c7ffea)
 ### Видеопример прохождения тестов
-https://github.com/nice58/project/assets/103956147/7cc36c7a-ff4f-4d66-b21f-859ad242ae55
+https://github.com/nice58/project/assets/103956147/725b0336-5c4e-4e1e-b3b9-1c05c631c49f
+
+
 
 
 
