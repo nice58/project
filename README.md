@@ -9,16 +9,18 @@
 - Уведомление в Telegram о результатах прохождения тестов
 - Видеопример прохождения тестов
 ### Стек технологий
-<a href="https://www.java.com/"><img src="img/java.svg" width="50" height="50"  alt="Java"/></a>
-<a href="https://github.com/"><img src="img/github.svg" width="50" height="50"  alt="Github"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="img/idea.svg" width="50" height="50"  alt="IDEA"/></a>
-<a href="https://gradle.org/"><img src="img/gradle.svg" width="50" height="50"  alt="Gradle"/></a>
-<a href="https://selenide.org/"><img src="img/selenide.svg" width="50" height="50"  alt="Selenide"/></a>
-<a href="https://junit.org/junit5/"><img src="img/junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
-<a href="https://aerokube.com/selenoid/"><img src="img/selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
-<a href="https://www.jenkins.io/"><img src="img/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
-<a href="https://github.com/allure-framework/allure2"><img src="img/allureReport.svg" width="50" height="50"  alt="Allure Reports"/></a>
-<a href="https://telegram.org/"><img src="img/telegram.svg" width="50" height="50"  alt="Telegram"/></a>
+<img width="6%" title="IntelliJ IDEA" src="img/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="img/Java.svg">
+<img width="6%" title="Selenide" src="img/Selenide.svg">
+<img width="6%" title="Selenoid" src="media/Selenoid.svg">
+<img width="6%" title="Allure Report" src="media/Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="media/AllureTestOps.svg">
+<img width="6%" title="Gradle" src="media/Gradle.svg">
+<img width="6%" title="JUnit5" src="media/JUnit5.svg">
+<img width="6%" title="GitHub" src="media/GitHub.svg">
+<img width="6%" title="Jenkins" src="media/Jenkins.svg">
+<img width="6%" title="Telegram" src="media/Telegram.svg">
+<img width="5%" title="Jira" src="media/Jira.svg">
 ### Реализованные проверки
 - Корректность открытия главной страницы
 - Открытие чата с поддержкой
