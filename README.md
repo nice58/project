@@ -63,7 +63,7 @@ test
 <kbd>![image](https://github.com/nice58/project/assets/103956147/70928dce-b714-474c-951e-3a9884c7ffea)</kbd>
 
 ### Видеопример прохождения тестов
-<kbd>https://github.com/nice58/project/assets/103956147/725b0336-5c4e-4e1e-b3b9-1c05c631c49f</kbd>
+<kbd> https://github.com/nice58/project/assets/103956147/725b0336-5c4e-4e1e-b3b9-1c05c631c49f </kbd>
 
 
 
