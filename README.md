@@ -21,12 +21,14 @@
 <img width="6%" title="Jenkins" src="media/Jenkins.svg">
 <img width="6%" title="Telegram" src="media/Telegram.svg">
 <img width="5%" title="Jira" src="media/Jira.svg">
+
 ### Реализованные проверки
 - Корректность открытия главной страницы
 - Открытие чата с поддержкой
 - Выполнение поиска товара через строку поиска на главной странице
 - Добавление товара в корзину
 - Удаление товара из корзины
+
 ### Запуск автотестов
 Команда запуска тестов из терминала
 ```bash
@@ -46,12 +48,16 @@ REMOTE_URL- адрес удаленного сервера, на котором 
 BROWSER - выбранный браузер,
 BROWSER_VERSION - версия выбранного браузера,
 BROWSER_SIZE - размер открываемого окна браузера, в котором будут выполняться тесты
+
 ### Сборка в Jenkins
 ![Screenshot_192](https://github.com/nice58/project/assets/103956147/f311c4fd-12fa-4990-82de-ef7cad4ac337)
+
 ### Пример Allure-отчета
 ![Screenshot_193](https://github.com/nice58/project/assets/103956147/4a2cc9d0-e9c5-4030-8ee5-6f36102ee604)
+
 ### Уведомление в Telegram о результатах прохождения тестов
 ![image](https://github.com/nice58/project/assets/103956147/70928dce-b714-474c-951e-3a9884c7ffea)
+
 ### Видеопример прохождения тестов
 https://github.com/nice58/project/assets/103956147/725b0336-5c4e-4e1e-b3b9-1c05c631c49f
 
