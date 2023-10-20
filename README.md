@@ -54,7 +54,7 @@ test
 - BROWSER_SIZE - размер открываемого окна браузера, в котором будут выполняться тесты
 
 ### Сборка в Jenkins
-<kbd>![Screenshot_192](https://github.com/nice58/project/assets/103956147/f311c4fd-12fa-4990-82de-ef7cad4ac337)</kbd>
+<kbd> ![image](https://github.com/nice58/project/assets/103956147/cea91215-d48b-476f-8a1a-ee780dca6db0)</kbd>
 
 ### Пример Allure-отчета
 <kbd>![Screenshot_193](https://github.com/nice58/project/assets/103956147/4a2cc9d0-e9c5-4030-8ee5-6f36102ee604)</kbd>
