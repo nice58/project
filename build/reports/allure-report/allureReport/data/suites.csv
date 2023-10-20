@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Oct 20 15:06:51 MSK 2023","Fri Oct 20 15:06:56 MSK 2023","4702","","tests.MainPageTest","","tests.MainPageTest","checkSupportWindow","Проверка открытия чата поддержки",""
+"passed","Fri Oct 20 15:06:56 MSK 2023","Fri Oct 20 15:06:59 MSK 2023","2887","","tests.MainPageTest","","tests.MainPageTest","checkCorrectPage","Проверка открытия главной страницы",""
+"passed","Fri Oct 20 15:06:43 MSK 2023","Fri Oct 20 15:06:47 MSK 2023","4792","","tests.BasketTest","","tests.BasketTest","addProduct","Добавление товара в корзину",""
+"passed","Fri Oct 20 15:06:24 MSK 2023","Fri Oct 20 15:06:43 MSK 2023","18823","","tests.BasketTest","","tests.BasketTest","deleteProduct","Удаление товара из корзины",""
+"passed","Fri Oct 20 15:06:47 MSK 2023","Fri Oct 20 15:06:51 MSK 2023","3785","","tests.CatalogTest","","tests.CatalogTest","searchProduct","Поиск товаров через строку поиска главной страницы",""
