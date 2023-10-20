@@ -12,15 +12,14 @@
 <img width="6%" title="IntelliJ IDEA" src="img/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="img/Java.svg">
 <img width="6%" title="Selenide" src="img/Selenide.svg">
-<img width="6%" title="Selenoid" src="media/Selenoid.svg">
-<img width="6%" title="Allure Report" src="media/Allure_Report.svg">
-<img width="5%" title="Allure TestOps" src="media/AllureTestOps.svg">
-<img width="6%" title="Gradle" src="media/Gradle.svg">
-<img width="6%" title="JUnit5" src="media/JUnit5.svg">
-<img width="6%" title="GitHub" src="media/GitHub.svg">
-<img width="6%" title="Jenkins" src="media/Jenkins.svg">
-<img width="6%" title="Telegram" src="media/Telegram.svg">
-<img width="5%" title="Jira" src="media/Jira.svg">
+<img width="6%" title="Selenoid" src="img/Selenoid.svg">
+<img width="6%" title="Allure Report" src="img/Allure_Report.svg">
+<img width="6%" title="Gradle" src="img/Gradle.svg">
+<img width="6%" title="JUnit5" src="img/JUnit5.svg">
+<img width="6%" title="GitHub" src="img/GitHub.svg">
+<img width="6%" title="Jenkins" src="img/Jenkins.svg">
+<img width="6%" title="Telegram" src="img/Telegram.svg">
+
 ### Реализованные проверки
 - Корректность открытия главной страницы
 - Открытие чата с поддержкой
