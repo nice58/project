@@ -9,22 +9,16 @@
 - Уведомление в Telegram о результатах прохождения тестов
 - Видеопример прохождения тестов
 ### Стек технологий
-<a href="https://www.java.com/"><img src="images/logo/java.svg" width="50" height="50"  alt="Java"/></a>
-<a href="https://github.com/"><img src="images/logo/github.svg" width="50" height="50"  alt="Github"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="images/logo/idea.svg" width="50" height="50"  alt="IDEA"/></a>
-<a href="https://gradle.org/"><img src="images/logo/gradle.svg" width="50" height="50"  alt="Gradle"/></a>
-<a href="https://selenide.org/"><img src="images/logo/selenide.svg" width="50" height="50"  alt="Selenide"/></a>
-<a href="https://junit.org/junit5/"><img src="images/logo/junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
-<a href="https://aerokube.com/selenoid/"><img src="images/logo/selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
-<a href="https://www.jenkins.io/"><img src="images/logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
-<a href="https://github.com/allure-framework/allure2"><img src="images/logo/allureReport.svg" width="50" height="50"  alt="Allure Reports"/></a>
-<a href="https://telegram.org/"><img src="images/logo/telegram.svg" width="50" height="50"  alt="Telegram"/></a>
+
+
+
 ### Реализованные проверки
 - Корректность открытия главной страницы
 - Открытие чата с поддержкой
 - Выполнение поиска товара через строку поиска на главной странице
 - Добавление товара в корзину
 - Удаление товара из корзины
+
 ### Запуск автотестов
 Команда запуска тестов из терминала
 ```bash
@@ -40,18 +34,24 @@ test
 -DbrowserSize=${BROWSER_SIZE}
 ```
 , где
-REMOTE_URL- адрес удаленного сервера, на котором будут запускаться тесты,
-BROWSER - выбранный браузер,
-BROWSER_VERSION - версия выбранного браузера,
-BROWSER_SIZE - размер открываемого окна браузера, в котором будут выполняться тесты
+- REMOTE_URL- адрес удаленного сервера, на котором будут запускаться тесты,
+- BROWSER - выбранный браузер,
+- BROWSER_VERSION - версия выбранного браузера,
+- BROWSER_SIZE - размер открываемого окна браузера, в котором будут выполняться тесты
+
 ### Сборка в Jenkins
-![Screenshot_192](https://github.com/nice58/project/assets/103956147/f311c4fd-12fa-4990-82de-ef7cad4ac337)
+<kbd> ![image](https://github.com/nice58/project/assets/103956147/cea91215-d48b-476f-8a1a-ee780dca6db0)</kbd>
+
 ### Пример Allure-отчета
-![Screenshot_193](https://github.com/nice58/project/assets/103956147/4a2cc9d0-e9c5-4030-8ee5-6f36102ee604)
+<kbd>![Screenshot_193](https://github.com/nice58/project/assets/103956147/4a2cc9d0-e9c5-4030-8ee5-6f36102ee604)</kbd>
+
 ### Уведомление в Telegram о результатах прохождения тестов
-![image](https://github.com/nice58/project/assets/103956147/70928dce-b714-474c-951e-3a9884c7ffea)
+<kbd>![image](https://github.com/nice58/project/assets/103956147/70928dce-b714-474c-951e-3a9884c7ffea)</kbd>
+
 ### Видеопример прохождения тестов
-https://github.com/nice58/project/assets/103956147/7cc36c7a-ff4f-4d66-b21f-859ad242ae55
+https://github.com/nice58/project/assets/103956147/725b0336-5c4e-4e1e-b3b9-1c05c631c49f
+
+
 
 
 
