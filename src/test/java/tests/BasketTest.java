@@ -1,6 +1,7 @@
 package tests;
 
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import utils.Variables;
 
@@ -9,7 +10,8 @@ import static io.qameta.allure.Allure.step;
 public class BasketTest extends TestBase {
     @DisplayName("Добавление товара в корзину")
     @Test
-    void addProduct() {
+    @Tag("Smoke")
+    void addProductTest() {
         Variables variables = new Variables();
 
         step("Найти товар", () -> {
@@ -38,7 +40,8 @@ public class BasketTest extends TestBase {
 
     @DisplayName("Удаление товара из корзины")
     @Test
-    void deleteProduct() {
+    @Tag("Smoke")
+    void deleteProductTest() {
         Variables variables = new Variables();
 
         step("Добавить товар в корзину", () -> {

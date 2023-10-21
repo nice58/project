@@ -1,6 +1,7 @@
 package tests;
 
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import static io.qameta.allure.Allure.step;
@@ -9,7 +10,8 @@ public class MainPageTest extends TestBase {
 
     @DisplayName("Проверка открытия главной страницы")
     @Test
-    void checkCorrectPage() {
+    @Tag("Smoke")
+    void checkCorrectPageTest() {
 
         step("Открыть Главную Страницу", () -> {
             mainPage.openPage();
@@ -23,7 +25,8 @@ public class MainPageTest extends TestBase {
 
     @DisplayName("Проверка открытия чата поддержки")
     @Test
-    void checkSupportWindow() {
+    @Tag("Smoke")
+    void checkSupportWindowTest() {
         step("Открыть чат поддержки", () -> {
             mainPage.openPage();
             mainPage.openSupportChat();

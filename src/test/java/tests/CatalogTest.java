@@ -1,6 +1,7 @@
 package tests;
 
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import utils.Variables;
 
@@ -10,8 +11,8 @@ public class CatalogTest extends TestBase {
 
     @DisplayName("Поиск товаров через строку поиска главной страницы")
     @Test
-
-    void searchProduct() {
+    @Tag("Smoke")
+    void searchProductTest() {
         Variables variables = new Variables();
 
         step("Ввести тип товара в строку поиска", () -> {

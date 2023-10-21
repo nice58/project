@@ -18,7 +18,6 @@ public class TestBase {
 
     MainPage mainPage = new MainPage();
     CatalogPage catalogPage = new CatalogPage();
-
     BasketPage basketPage = new BasketPage();
 
 
