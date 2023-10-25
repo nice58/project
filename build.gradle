@@ -66,3 +66,10 @@ task Smoke_Test(type: Test) {
         includeTags "Smoke"
     }
 }
+
+compileJava {
+    options.encoding = 'UTF-8'
+}
+compileTestJava {
+    options.encoding = 'UTF-8'
+}
